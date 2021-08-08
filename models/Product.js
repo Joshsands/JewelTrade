@@ -26,7 +26,7 @@ Product.init(
     },
     price: {
       // format price as a decimal and validate it to make sure it is a positive value
-      type: dateTypes.DECIMAL(10,2),
+      type: DataTypes.DECIMAL(10,2),
       allowNull: false,
       validate: {
         isDecimal: true,
