@@ -30,7 +30,7 @@ Product.init(
       allowNull: false,
       validate: {
         isDecimal: true,
-        min: 0
+        min: 0.00
       }
     },
     stock: {
@@ -38,7 +38,7 @@ Product.init(
       allowNull: false,
       defaultValue: 10,
       validate: {
-        isNumeric: true,
+        isInt: true,
         min: 0
       }
     },
