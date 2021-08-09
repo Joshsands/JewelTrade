@@ -18,7 +18,7 @@
 
 ![JewelTrade Snapshot](./assets/snapshot.png)
 
-[CLICK HERE FOR THE FULL DEMONSTRATION VIDEO!](https://youtu.be/7_p6tv0zpg0)
+[CLICK HERE FOR THE FULL DEMONSTRATION VIDEO!](https://www.youtube.com/watch?v=5A70N5t8XKM)
 
 ## Project Description
 
